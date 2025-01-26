@@ -108,4 +108,3 @@ Se tiver sugestões ou dúvidas, sinta-se à vontade para contribuir ou fazer pe
 
 ---
 
-Se precisar de mais alguma coisa, estarei por aqui para ajudar!
